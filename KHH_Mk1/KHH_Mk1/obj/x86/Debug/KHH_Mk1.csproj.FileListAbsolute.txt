@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\文件\大四上\case\Khh\KHH_Mk1\KHH_Mk1\bin\Debug\KHH_Mk1.exe
+C:\Users\user\Desktop\文件\大四上\case\Khh\KHH_Mk1\KHH_Mk1\bin\Debug\KHH_Mk1.pdb
+C:\Users\user\Desktop\文件\大四上\case\Khh\KHH_Mk1\KHH_Mk1\obj\x86\Debug\KHH_Mk1.exe
+C:\Users\user\Desktop\文件\大四上\case\Khh\KHH_Mk1\KHH_Mk1\obj\x86\Debug\KHH_Mk1.pdb
+C:\Users\user\Desktop\文件\大四上\case\Khh\KHH_Mk1\KHH_Mk1\obj\x86\Debug\KHH_Mk1.csprojResolveAssemblyReference.cache
